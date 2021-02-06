@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewModelDataBindingExample</string>
+    <string name="incrementar">Incrementar</string>
+    <string name="_0">0</string>
+</resources>
